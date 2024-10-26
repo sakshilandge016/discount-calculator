@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(225, 224, 224);
+}
+#main-section{
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 5px;
+    width: 500px;
+    height: 340px;
+    margin: 100px auto;
+    box-shadow: 2px 2px 4px 4px rgb(152, 152, 152);
+}
+h2{
+    margin-left: 100px;
+    color: cadetblue;
+    font-family: "Overpass", sans-serif;
+}
+section p{
+    color: cadetblue;
+    margin-left: 10px;
+    font-family:cursive
+}
+#input{
+    margin-left: 20px;
+    color: cadetblue;
+    width: 450px;
+}
+.Hover:hover{
+    argin-left: 20px;
+    border-color: burlywood;
+    width: 450px;
+}
+.btn{
+    margin: 7px 20px;
+    width: 450px;
+    background-color: #4caf50;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 4px;
+}
